@@ -1,7 +1,7 @@
-# Proyecto Pandas — Web Service Access Logs
+# Proyecto_FBX — Web Service Access Logs
 
-Análisis de logs de acceso a servicios web con Pandas, documentado con Quarto
-y publicado mediante GitHub Pages.
+Proyecto de grupo sobre análisis de logs de acceso a servicios web con Pandas,
+documentado con Quarto y publicado mediante GitHub Pages.
 
 ## Estructura
 - `informe.qmd` — documento fuente del informe
@@ -10,3 +10,4 @@ y publicado mediante GitHub Pages.
 
 ## Autor/es
 - [Tu nombre]
+- [Nombre del compañero]
