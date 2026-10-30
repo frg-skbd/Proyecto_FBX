@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de datos originales grandes (solo subimos la muestra)
+*.log
+data/raw/
+*.csv.gz
+
+# Salidas de Quarto y temporales
+informe_files/
+.quarto/
+*_cache/
+.Rhistory
+
+# Sistema
+.DS_Store
+Thumbs.db
